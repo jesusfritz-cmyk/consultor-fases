@@ -4,18 +4,2159 @@
     "barcode": "6931604332492",
     "descripcion": "COSMETIQUERA BASICA CON ASA ROSA CLARO",
     "categoria": "BOLSAS Y MOCHILAS",
-    "precioNormal": null,
-    "fases": [
-      {
-        "fase": "FASE 1",
-        "precioActual": 149.9,
-        "faseSale": null
-      },
-      {
-        "fase": "FASE 2",
-        "precioActual": 179.9,
-        "faseSale": null
-      }
-    ]
+    "precioActual": 149.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2020419411103",
+    "barcode": "6931604332508",
+    "descripcion": "COSMETIQUERA BASICA CON ASA APRICOT",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 149.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2021001010100",
+    "barcode": "6931604325876",
+    "descripcion": "COSMETIQUERA MY LITTLE PONY COLLECTION LILA",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 149.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2021202610109",
+    "barcode": "6931604361164",
+    "descripcion": "CARTERA MUJER METALASE ROMBOS NEGRA",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 149.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2021206110100",
+    "barcode": "6931604361386",
+    "descripcion": "BOLSO CROSSBODY BASICO CASUAL DUMPLING SHAPE NEGRO",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 229.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2022786012105",
+    "barcode": "6937237416455",
+    "descripcion": "BOLSA CROSSBODY SNEGRO SERIE MINISO",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 199.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2023036212108",
+    "barcode": "6937237427277",
+    "descripcion": "BOLSA CROSSBODY HALF MOON BEIGE SERIE MINISO",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 199.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2019917011106",
+    "barcode": "6954578705215",
+    "descripcion": "BALSAMO LABIAL FRUIT SERIES AROMA FRESA",
+    "categoria": "COSMETICOS",
+    "precioActual": 99.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709399982500",
+    "barcode": "7709399982500",
+    "descripcion": "KIT X 8 FOREVER GLOSS REF BFG1776",
+    "categoria": "COSMETICOS",
+    "precioActual": 129.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7708955813319",
+    "barcode": "7708955813319",
+    "descripcion": "PALETA DE SOMBRA PARA OJOS FRUTAS CON NUEVE TONOS UVA TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 69.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709074901642",
+    "barcode": "7709074901642",
+    "descripcion": "SOMBRA ESCARCHA PARTY GLITTER TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 59.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709217875335",
+    "barcode": "7709217875335",
+    "descripcion": "RUBOR E ILUMINADOR PUPPY TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709447448576",
+    "barcode": "7709447448576",
+    "descripcion": "PALETA DE SOMBRA PARA OJOS FRUTAS CON NUEVE TONOS COCO TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 69.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2020590710101",
+    "barcode": "6931604349636",
+    "descripcion": "MANTA DISNEY LILO STITCH DINNER PARTY AZUL",
+    "categoria": "HOGAR",
+    "precioActual": 249.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2019987610100",
+    "barcode": "6931604306677",
+    "descripcion": "MANTA CON CAPUCHA COLECCION THE POWERPUFF GIRL BUTTERCUP",
+    "categoria": "HOGAR",
+    "precioActual": 359.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2019987612104",
+    "barcode": "6931604306691",
+    "descripcion": "MANTA CON CAPUCHA COLECCION THE POWERPUFF GIRL BLOSSOM",
+    "categoria": "HOGAR",
+    "precioActual": 359.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2019987611107",
+    "barcode": "6931604306684",
+    "descripcion": "MANTA CON CAPUCHA COLECCION THE POWERPUFF GIRL BUBBLES",
+    "categoria": "HOGAR",
+    "precioActual": 359.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2026871810102",
+    "barcode": "6941377492644",
+    "descripcion": "ADORNO SORPRESA COLECCION CHIIKAWA PAJAMA PARTY",
+    "categoria": "HOGAR",
+    "precioActual": 199.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2026562011108",
+    "barcode": "6941377455472",
+    "descripcion": "PELUCHE DE 30 CM TOGETHERNESS BEAR. SERIE CARE BEARS",
+    "categoria": "JUGUETES",
+    "precioActual": 249.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2020764210109",
+    "barcode": "6931604380059",
+    "descripcion": "LENTE PARA SOL MUJER R 059 SIN MONTURA SERIE MINISO",
+    "categoria": "MODA",
+    "precioActual": 149.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2021606810105",
+    "barcode": "6936558310305",
+    "descripcion": "LENTES DE SOL AVIADOR CON DOBLE PUENTE",
+    "categoria": "MODA",
+    "precioActual": 179.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025142310105",
+    "barcode": "6937492478052",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARM METAL DE FURIA COLECCION DISNEY INSIDE OUT 2 PIEZAS ROJO",
+    "categoria": "MODA",
+    "precioActual": 59.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025142312109",
+    "barcode": "6937492478076",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARM METAL TRISTEZA COLECCION DISNEY INSIDE OUT 2 PIEZAS AZUL",
+    "categoria": "MODA",
+    "precioActual": 59.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025142315100",
+    "barcode": "6937492478106",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARM METAL DE ENVIDIA COLECCION DISNEY INSIDE OUT 2 PIEZAS AZUL",
+    "categoria": "MODA",
+    "precioActual": 59.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2024688810100",
+    "barcode": "6937492436656",
+    "descripcion": "B5 LIBRETA ENCUADERNADO CON ALAMBRE 158 HOJAS VERDE SERIE BLACK WHITE",
+    "categoria": "PAPELERIA",
+    "precioActual": 179.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025060910104",
+    "barcode": "6937492467896",
+    "descripcion": "POST IT HAPPY BAKING COLLECTION MIMIBARA SERIE MINI FAMILY",
+    "categoria": "PAPELERIA",
+    "precioActual": 49.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2028459110109",
+    "barcode": "6942554563843",
+    "descripcion": "LIGA PARA CABELLO SERIE SPORT CON REFLECTANTE",
+    "categoria": "SALUD Y BELLEZA",
+    "precioActual": 49.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2019923912107",
+    "barcode": "6931604303447",
+    "descripcion": "SOPORTE GIRATORIO PLEGABLE DE METAL PARA TELEFONO NEGRO",
+    "categoria": "TECNOLOGIA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2021644810105",
+    "barcode": "6936558312293",
+    "descripcion": "ANTIFAZ PARA DORMIR MICKEY MOUSE DISNEY OREJITAS",
+    "categoria": "VIAJES",
+    "precioActual": 99.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2026729810100",
+    "barcode": "6941377472660",
+    "descripcion": "NECESER DE VIAJE BOLSA DE ALMACENAMIENTO DE GRAN CAPACIDAD SERIE LINEN TONE",
+    "categoria": "VIAJES",
+    "precioActual": 179.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2026730110107",
+    "barcode": "6941377472691",
+    "descripcion": "NECESER DE VIAJE CON COMPARTIMENTOS SERIE LINEN TONE",
+    "categoria": "VIAJES",
+    "precioActual": 179.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025735610100",
+    "barcode": "6941377408805",
+    "descripcion": "NECESER DE VIAJE BOLSA DE ALMACENAMIENTO DE MALLA SERIE BLACK AND WHITE MEDIANA",
+    "categoria": "VIAJES",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2021240010107",
+    "barcode": "6931604363991",
+    "descripcion": "BOLSA DE COMPRAS DISNEY MARVELLOUS MICKEY BLANCO",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 179.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2023036310101",
+    "barcode": "6937237427840",
+    "descripcion": "COSMETIQUERA BASICA LISA NEGRO",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 149.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2023036311108",
+    "barcode": "6937237427857",
+    "descripcion": "COSMETIQUERA BASICA LISA VERDE OLIVO",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 149.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2023036810106",
+    "barcode": "6937237427949",
+    "descripcion": "COSMETIQUERA TRAPECIO BASICA LISA ROJA",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 129.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043410102",
+    "barcode": "6937492466325",
+    "descripcion": "MONEDERO MINISODOTS MIX COLORES",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025133411101",
+    "barcode": "6937492476232",
+    "descripcion": "BOLSO HOBO CON AGUJEROS SERIE GLOSSY NEGRA",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 299.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709764613909",
+    "barcode": "7709764613909",
+    "descripcion": "SOMBRA BEAR REF SBT1841",
+    "categoria": "COSMETICOS",
+    "precioActual": 59.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709223258238",
+    "barcode": "7709223258238",
+    "descripcion": "KIT DUO PESTANAS Y FORTALECE DORADO TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 99.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709217875311",
+    "barcode": "7709217875311",
+    "descripcion": "RUBOR PARA ROSTRO DONUT TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 49.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709217875342",
+    "barcode": "7709217875342",
+    "descripcion": "RUBOR DUO POLVO Y CREMA MIA BLUSH",
+    "categoria": "COSMETICOS",
+    "precioActual": 129.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709322768850",
+    "barcode": "7709322768850",
+    "descripcion": "ILUMINADOR CLOUD CON TRES TONOS TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 69.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709322768881",
+    "barcode": "7709322768881",
+    "descripcion": "PALETA DE SOMBRA PARA OJOS CLOUD CON NUEVE TONOS TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 69.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709427651569",
+    "barcode": "7709427651569",
+    "descripcion": "RUBOR PARA ROSTRO TUTU GLOW TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 69.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709840331246",
+    "barcode": "7709840331246",
+    "descripcion": "PALETA DE SOMBRA PARA OJOS BAKERY TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 69.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "0638073662568",
+    "barcode": "638073662568",
+    "descripcion": "ARTICULOS DE MESA MANTEL MANTELES INDIVUDALES NEGRO",
+    "categoria": "HOGAR",
+    "precioActual": 49.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "0638073662575",
+    "barcode": "638073662575",
+    "descripcion": "ARTICULOS DE MESA MANTEL MANTELES INDIVUDALES GRISES",
+    "categoria": "HOGAR",
+    "precioActual": 49.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "0638073662582",
+    "barcode": "638073662582",
+    "descripcion": "ARTICULOS DE MESA MANTEL MANTELES INDIVUDALES AZUL",
+    "categoria": "HOGAR",
+    "precioActual": 49.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "0638073662599",
+    "barcode": "638073662599",
+    "descripcion": "ARTICULOS DE MESA MANTEL MANTELES INDIVUDALES GRISES",
+    "categoria": "HOGAR",
+    "precioActual": 49.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "0638073662605",
+    "barcode": "638073662605",
+    "descripcion": "ARTICULOS DE MESA MANTEL MANTELES INDIVUDALES CAFE",
+    "categoria": "HOGAR",
+    "precioActual": 49.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025119810102",
+    "barcode": "6976844395203",
+    "descripcion": "ADORNO SORPRESA DE LA SERIE LAURA CUTE PET DESSERT SHOP",
+    "categoria": "HOGAR",
+    "precioActual": 399.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025512810105",
+    "barcode": "6937492494243",
+    "descripcion": "CAJA SORPRESA DISNEY LILO STITCH ATERCIOPELADO",
+    "categoria": "HOGAR",
+    "precioActual": 359.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2028051810100",
+    "barcode": "6942460473946",
+    "descripcion": "GANCHOS PARA ROPA ANTIDESLIZANTES 10 PIEZAS CAFE",
+    "categoria": "HOGAR",
+    "precioActual": 59.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2028051812104",
+    "barcode": "6942460474165",
+    "descripcion": "GANCHOS PARA ROPA ANTIDESLIZANTES 10 PIEZAS BLANCAS",
+    "categoria": "HOGAR",
+    "precioActual": 59.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2028051814108",
+    "barcode": "6942460474189",
+    "descripcion": "GANCHOS PARA ROPA ANTIDESLIZANTES 10 PIEZAS ROSAS",
+    "categoria": "HOGAR",
+    "precioActual": 59.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2027867410108",
+    "barcode": "6942460452170",
+    "descripcion": "TAZA MINIMALISTA DE CERAMICA CON LETRAS DEL ALFABETO 340ML ROSA",
+    "categoria": "HOGAR",
+    "precioActual": 49.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2027867411105",
+    "barcode": "6942460452187",
+    "descripcion": "TAZA MINIMALISTA DE CERAMICA CON LETRAS DEL ALFABETO 340ML AZUL",
+    "categoria": "HOGAR",
+    "precioActual": 49.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2027867412102",
+    "barcode": "6942460452194",
+    "descripcion": "TAZA MINIMALISTA DE CERAMICA CON LETRAS DEL ALFABETO 340ML VERDE",
+    "categoria": "HOGAR",
+    "precioActual": 49.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2027867413109",
+    "barcode": "6942460452255",
+    "descripcion": "TAZA MINIMALISTA DE CERAMICA CON LETRAS DEL ALFABETO 340ML NEGRA",
+    "categoria": "HOGAR",
+    "precioActual": 49.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2027867414106",
+    "barcode": "6942460452262",
+    "descripcion": "TAZA MINIMALISTA DE CERAMICA CON LETRAS DEL ALFABETO 340ML BLANCA",
+    "categoria": "HOGAR",
+    "precioActual": 49.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2027984310107",
+    "barcode": "6942460470211",
+    "descripcion": "GANCHOS PARA ROPA RECUBIERTAS DE PLASTICO PARA NINOS 8 PIEZAS CAFE",
+    "categoria": "HOGAR",
+    "precioActual": 59.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2027931510109",
+    "barcode": "6942460466825",
+    "descripcion": "CUBIERTOS SERIE CLASSIC 3 PIEZAS BEIGE",
+    "categoria": "HOGAR",
+    "precioActual": 59.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2024766510106",
+    "barcode": "6937492440738",
+    "descripcion": "PELUCHE 10IN. PEREZOSO SERIE MINISO",
+    "categoria": "JUGUETES",
+    "precioActual": 199.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2024766610103",
+    "barcode": "6937492440752",
+    "descripcion": "PELUCHE 10IN. PANDA SERIE MINI FAMILY",
+    "categoria": "JUGUETES",
+    "precioActual": 199.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2026833310107",
+    "barcode": "6941377487381",
+    "descripcion": "PELUCHE HELLO KITTY DISFRAZADO DE UNICORNIO 10 PULGADAS SERIE SANRIO",
+    "categoria": "JUGUETES",
+    "precioActual": 359.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2024766613104",
+    "barcode": "6937492440783",
+    "descripcion": "PELUCHE 10IN. CONEJITO SERIE MAKE A FRIEND",
+    "categoria": "JUGUETES",
+    "precioActual": 199.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043711100",
+    "barcode": "6937492465984",
+    "descripcion": "OTROS ACCESORIOS DE MODA SET DE SILICON CON FLORES MORADO",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043712107",
+    "barcode": "6937492465991",
+    "descripcion": "OTROS ACCESORIOS DE MODA SET DE SILICON CON FLORES ROSA",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043713104",
+    "barcode": "6937492466400",
+    "descripcion": "OTROS ACCESORIOS DE MODA SET DE SILICON CON FLORES CAFE",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043714101",
+    "barcode": "6937492466417",
+    "descripcion": "OTROS ACCESORIOS DE MODA SET DE SILICON CON FLORES AZUL",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043715108",
+    "barcode": "6937492466424",
+    "descripcion": "OTROS ACCESORIOS DE MODA SET DE SILICON CON FLORES GRIS",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043810100",
+    "barcode": "6937492466431",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS F O",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043811107",
+    "barcode": "6937492466448",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS U V",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043812104",
+    "barcode": "6937492466455",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS D H",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043813101",
+    "barcode": "6937492466462",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS E I",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043814108",
+    "barcode": "6937492466479",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS G P",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043815105",
+    "barcode": "6937492466486",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS Z K",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043816102",
+    "barcode": "6937492466493",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS Y Q",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043817109",
+    "barcode": "6937492466509",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS L X",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043818106",
+    "barcode": "6937492466516",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS C J",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043819103",
+    "barcode": "6937492466523",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS A M",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043820109",
+    "barcode": "6937492466530",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS B W",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043821106",
+    "barcode": "6937492466547",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS S T",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043822103",
+    "barcode": "6937492466554",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS R N",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025131310109",
+    "barcode": "6937492475808",
+    "descripcion": "OTROS ACCESORIOS DE MODA NUMEROS METALICOS 4 Y 6",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025131311106",
+    "barcode": "6937492475815",
+    "descripcion": "OTROS ACCESORIOS DE MODA NUMEROS METALICOS 2 Y 8",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025131312103",
+    "barcode": "6937492475822",
+    "descripcion": "OTROS ACCESORIOS DE MODA NUMEROS METALICOS 3 Y 7",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025131313100",
+    "barcode": "6937492475839",
+    "descripcion": "OTROS ACCESORIOS DE MODA NUMEROS METALICOS O Y 5",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025131314107",
+    "barcode": "6937492475846",
+    "descripcion": "OTROS ACCESORIOS DE MODA NUMEROS METALICOS 1 Y 9",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025131510103",
+    "barcode": "6937492475778",
+    "descripcion": "OTROS ACCESORIOS DE MODA SERIE SILVERY BLACK OSITO Y GAFAS PARA COLGAR NEGRO",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025136410101",
+    "barcode": "6937492476843",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARM PARA MODERO COLECCION LILO STITCH AZUL",
+    "categoria": "MODA",
+    "precioActual": 59.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025138010101",
+    "barcode": "6937492477352",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARM 3D DE STITCH VAMPIRO SERIE DISNEY",
+    "categoria": "MODA",
+    "precioActual": 59.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025138011108",
+    "barcode": "6937492477369",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARM 3D DE STITCH ESQUELETO SERIE DISNEY",
+    "categoria": "MODA",
+    "precioActual": 59.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025138012105",
+    "barcode": "6937492477376",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARM 3D DE STITCH MOMIA SERIE DISNEY",
+    "categoria": "MODA",
+    "precioActual": 59.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025138211102",
+    "barcode": "6937492477406",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARM DE MARIE LABIAL DISNEY CLASSICS",
+    "categoria": "MODA",
+    "precioActual": 59.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025142313106",
+    "barcode": "6937492478083",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARM METAL DE ANSIEDAD COLECCION DISNEY INSIDE OUT 2 PIEZAS ROJO",
+    "categoria": "MODA",
+    "precioActual": 59.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2026493810108",
+    "barcode": "6975222027255",
+    "descripcion": "MASCARILLA HIDRATANTE DE HIDROGEL PARA LABIOS AROMA A FRESA",
+    "categoria": "SALUD Y BELLEZA",
+    "precioActual": 19.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2026493811105",
+    "barcode": "6975222027248",
+    "descripcion": "MASCARILLA HIDRATANTE DE HIDROGEL PARA LABIOS AROMA A NARANJA",
+    "categoria": "SALUD Y BELLEZA",
+    "precioActual": 19.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2026493812102",
+    "barcode": "6975222027262",
+    "descripcion": "MASCARILLA HIDRATANTE DE HIDROGEL PARA LABIOS CON AROMA A TE HELADO",
+    "categoria": "SALUD Y BELLEZA",
+    "precioActual": 19.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025632910105",
+    "barcode": "6931583604900",
+    "descripcion": "MASCARILLA FACIAL HIDRATANTE DE ARROZ",
+    "categoria": "SALUD Y BELLEZA",
+    "precioActual": 19.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2022087510102",
+    "barcode": "6936558356969",
+    "descripcion": "CREMA DE MANOS HIDRATANTE MY MELODY",
+    "categoria": "SALUD Y BELLEZA",
+    "precioActual": 59.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2022088410104",
+    "barcode": "6936558357058",
+    "descripcion": "CREMA DE MANOS HIDRATANTE CINNAMOROLL",
+    "categoria": "SALUD Y BELLEZA",
+    "precioActual": 59.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025797410106",
+    "barcode": "6971696610801",
+    "descripcion": "PARCHE PARA IMPERFECCIONES FACIALES CON ESTUCHE FORMA DE FLOR",
+    "categoria": "SALUD Y BELLEZA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025797411103",
+    "barcode": "6971696610795",
+    "descripcion": "PARCHE PARA IMPERFECCIONES FACIALES CON ESTUCHE FORMA DE GATITO",
+    "categoria": "SALUD Y BELLEZA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2019923913104",
+    "barcode": "6931604303454",
+    "descripcion": "SOPORTE GIRATORIO PLEGABLE DE METAL PARA TELEFONO PLATEADO",
+    "categoria": "TECNOLOGIA",
+    "precioActual": 79.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2020768213106",
+    "barcode": "6931604380189",
+    "descripcion": "ARTICULO DECORATIVO PERSONAJES SANRIO SUMMER BEACH KUROMI",
+    "categoria": "TECNOLOGIA",
+    "precioActual": 149.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2024526412107",
+    "barcode": "6937492420655",
+    "descripcion": "ADORNO PARA CELULAR MININI SERIES CONINI",
+    "categoria": "TECNOLOGIA",
+    "precioActual": 149.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2023714311109",
+    "barcode": "6937237471195",
+    "descripcion": "CABLE DE CARGA MAGNETICO USB C MACARON SERIES MORADO",
+    "categoria": "TECNOLOGIA",
+    "precioActual": 149.9,
+    "fase": "FASE 1",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2020419410106",
+    "barcode": "6931604332492",
+    "descripcion": "COSMETIQUERA BASICA CON ASA ROSA CLARO",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 179.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2020419411103",
+    "barcode": "6931604332508",
+    "descripcion": "COSMETIQUERA BASICA CON ASA APRICOT",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 179.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2021001010100",
+    "barcode": "6931604325876",
+    "descripcion": "COSMETIQUERA MY LITTLE PONY COLLECTION LILA",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 199.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2021202610109",
+    "barcode": "6931604361164",
+    "descripcion": "CARTERA MUJER METALASE ROMBOS NEGRA",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 199.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2021206110100",
+    "barcode": "6931604361386",
+    "descripcion": "BOLSO CROSSBODY BASICO CASUAL DUMPLING SHAPE NEGRO",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 249.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2022786012105",
+    "barcode": "6937237416455",
+    "descripcion": "BOLSA CROSSBODY SNEGRO SERIE MINISO",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 229.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2023036212108",
+    "barcode": "6937237427277",
+    "descripcion": "BOLSA CROSSBODY HALF MOON BEIGE SERIE MINISO",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 249.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2019917011106",
+    "barcode": "6954578705215",
+    "descripcion": "BALSAMO LABIAL FRUIT SERIES AROMA FRESA",
+    "categoria": "COSMETICOS",
+    "precioActual": 129.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709399982500",
+    "barcode": "7709399982500",
+    "descripcion": "KIT X 8 FOREVER GLOSS REF BFG1776",
+    "categoria": "COSMETICOS",
+    "precioActual": 149.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7708955813319",
+    "barcode": "7708955813319",
+    "descripcion": "PALETA DE SOMBRA PARA OJOS FRUTAS CON NUEVE TONOS UVA TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709074901642",
+    "barcode": "7709074901642",
+    "descripcion": "SOMBRA ESCARCHA PARTY GLITTER TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 69.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709217875335",
+    "barcode": "7709217875335",
+    "descripcion": "RUBOR E ILUMINADOR PUPPY TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709447448576",
+    "barcode": "7709447448576",
+    "descripcion": "PALETA DE SOMBRA PARA OJOS FRUTAS CON NUEVE TONOS COCO TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2020590710101",
+    "barcode": "6931604349636",
+    "descripcion": "MANTA DISNEY LILO STITCH DINNER PARTY AZUL",
+    "categoria": "HOGAR",
+    "precioActual": 299.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2019987610100",
+    "barcode": "6931604306677",
+    "descripcion": "MANTA CON CAPUCHA COLECCION THE POWERPUFF GIRL BUTTERCUP",
+    "categoria": "HOGAR",
+    "precioActual": 429.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2019987612104",
+    "barcode": "6931604306691",
+    "descripcion": "MANTA CON CAPUCHA COLECCION THE POWERPUFF GIRL BLOSSOM",
+    "categoria": "HOGAR",
+    "precioActual": 429.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2019987611107",
+    "barcode": "6931604306684",
+    "descripcion": "MANTA CON CAPUCHA COLECCION THE POWERPUFF GIRL BUBBLES",
+    "categoria": "HOGAR",
+    "precioActual": 429.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2026871810102",
+    "barcode": "6941377492644",
+    "descripcion": "ADORNO SORPRESA COLECCION CHIIKAWA PAJAMA PARTY",
+    "categoria": "HOGAR",
+    "precioActual": 249.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2026562011108",
+    "barcode": "6941377455472",
+    "descripcion": "PELUCHE DE 30 CM TOGETHERNESS BEAR. SERIE CARE BEARS",
+    "categoria": "JUGUETES",
+    "precioActual": 299.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2020764210109",
+    "barcode": "6931604380059",
+    "descripcion": "LENTE PARA SOL MUJER R 059 SIN MONTURA SERIE MINISO",
+    "categoria": "MODA",
+    "precioActual": 199.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2021606810105",
+    "barcode": "6936558310305",
+    "descripcion": "LENTES DE SOL AVIADOR CON DOBLE PUENTE",
+    "categoria": "MODA",
+    "precioActual": 199.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025142310105",
+    "barcode": "6937492478052",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARM METAL DE FURIA COLECCION DISNEY INSIDE OUT 2 PIEZAS ROJO",
+    "categoria": "MODA",
+    "precioActual": 69.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025142312109",
+    "barcode": "6937492478076",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARM METAL TRISTEZA COLECCION DISNEY INSIDE OUT 2 PIEZAS AZUL",
+    "categoria": "MODA",
+    "precioActual": 69.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025142315100",
+    "barcode": "6937492478106",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARM METAL DE ENVIDIA COLECCION DISNEY INSIDE OUT 2 PIEZAS AZUL",
+    "categoria": "MODA",
+    "precioActual": 69.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2024688810100",
+    "barcode": "6937492436656",
+    "descripcion": "B5 LIBRETA ENCUADERNADO CON ALAMBRE 158 HOJAS VERDE SERIE BLACK WHITE",
+    "categoria": "PAPELERIA",
+    "precioActual": 199.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025060910104",
+    "barcode": "6937492467896",
+    "descripcion": "POST IT HAPPY BAKING COLLECTION MIMIBARA SERIE MINI FAMILY",
+    "categoria": "PAPELERIA",
+    "precioActual": 59.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2028459110109",
+    "barcode": "6942554563843",
+    "descripcion": "LIGA PARA CABELLO SERIE SPORT CON REFLECTANTE",
+    "categoria": "SALUD Y BELLEZA",
+    "precioActual": 59.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2019923912107",
+    "barcode": "6931604303447",
+    "descripcion": "SOPORTE GIRATORIO PLEGABLE DE METAL PARA TELEFONO NEGRO",
+    "categoria": "TECNOLOGIA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2021644810105",
+    "barcode": "6936558312293",
+    "descripcion": "ANTIFAZ PARA DORMIR MICKEY MOUSE DISNEY OREJITAS",
+    "categoria": "VIAJES",
+    "precioActual": 129.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2026729810100",
+    "barcode": "6941377472660",
+    "descripcion": "NECESER DE VIAJE BOLSA DE ALMACENAMIENTO DE GRAN CAPACIDAD SERIE LINEN TONE",
+    "categoria": "VIAJES",
+    "precioActual": 199.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2026730110107",
+    "barcode": "6941377472691",
+    "descripcion": "NECESER DE VIAJE CON COMPARTIMENTOS SERIE LINEN TONE",
+    "categoria": "VIAJES",
+    "precioActual": 199.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025735610100",
+    "barcode": "6941377408805",
+    "descripcion": "NECESER DE VIAJE BOLSA DE ALMACENAMIENTO DE MALLA SERIE BLACK AND WHITE MEDIANA",
+    "categoria": "VIAJES",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2021240010107",
+    "barcode": "6931604363991",
+    "descripcion": "BOLSA DE COMPRAS DISNEY MARVELLOUS MICKEY BLANCO",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 249.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2023036310101",
+    "barcode": "6937237427840",
+    "descripcion": "COSMETIQUERA BASICA LISA NEGRO",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 199.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2023036311108",
+    "barcode": "6937237427857",
+    "descripcion": "COSMETIQUERA BASICA LISA VERDE OLIVO",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 199.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2023036810106",
+    "barcode": "6937237427949",
+    "descripcion": "COSMETIQUERA TRAPECIO BASICA LISA ROJA",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 129.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043410102",
+    "barcode": "6937492466325",
+    "descripcion": "MONEDERO MINISODOTS MIX COLORES",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025133411101",
+    "barcode": "6937492476232",
+    "descripcion": "BOLSO HOBO CON AGUJEROS SERIE GLOSSY NEGRA",
+    "categoria": "BOLSAS Y MOCHILAS",
+    "precioActual": 299.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709764613909",
+    "barcode": "7709764613909",
+    "descripcion": "SOMBRA BEAR REF SBT1841",
+    "categoria": "COSMETICOS",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709223258238",
+    "barcode": "7709223258238",
+    "descripcion": "KIT DUO PESTANAS Y FORTALECE DORADO TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 129.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709217875311",
+    "barcode": "7709217875311",
+    "descripcion": "RUBOR PARA ROSTRO DONUT TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709217875342",
+    "barcode": "7709217875342",
+    "descripcion": "RUBOR DUO POLVO Y CREMA MIA BLUSH",
+    "categoria": "COSMETICOS",
+    "precioActual": 179.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709322768850",
+    "barcode": "7709322768850",
+    "descripcion": "ILUMINADOR CLOUD CON TRES TONOS TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709322768881",
+    "barcode": "7709322768881",
+    "descripcion": "PALETA DE SOMBRA PARA OJOS CLOUD CON NUEVE TONOS TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709427651569",
+    "barcode": "7709427651569",
+    "descripcion": "RUBOR PARA ROSTRO TUTU GLOW TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "7709840331246",
+    "barcode": "7709840331246",
+    "descripcion": "PALETA DE SOMBRA PARA OJOS BAKERY TRENDY",
+    "categoria": "COSMETICOS",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "0638073662568",
+    "barcode": "638073662568",
+    "descripcion": "ARTICULOS DE MESA MANTEL MANTELES INDIVUDALES NEGRO",
+    "categoria": "HOGAR",
+    "precioActual": 59.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "0638073662575",
+    "barcode": "638073662575",
+    "descripcion": "ARTICULOS DE MESA MANTEL MANTELES INDIVUDALES GRISES",
+    "categoria": "HOGAR",
+    "precioActual": 59.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "0638073662582",
+    "barcode": "638073662582",
+    "descripcion": "ARTICULOS DE MESA MANTEL MANTELES INDIVUDALES AZUL",
+    "categoria": "HOGAR",
+    "precioActual": 59.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "0638073662599",
+    "barcode": "638073662599",
+    "descripcion": "ARTICULOS DE MESA MANTEL MANTELES INDIVUDALES GRISES",
+    "categoria": "HOGAR",
+    "precioActual": 59.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "0638073662605",
+    "barcode": "638073662605",
+    "descripcion": "ARTICULOS DE MESA MANTEL MANTELES INDIVUDALES CAFE",
+    "categoria": "HOGAR",
+    "precioActual": 59.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025119810102",
+    "barcode": "6976844395203",
+    "descripcion": "ADORNO SORPRESA DE LA SERIE LAURA CUTE PET DESSERT SHOP",
+    "categoria": "HOGAR",
+    "precioActual": 479.0,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025512810105",
+    "barcode": "6937492494243",
+    "descripcion": "CAJA SORPRESA DISNEY LILO STITCH ATERCIOPELADO",
+    "categoria": "HOGAR",
+    "precioActual": 329.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2028051810100",
+    "barcode": "6942460473946",
+    "descripcion": "GANCHOS PARA ROPA ANTIDESLIZANTES 10 PIEZAS CAFE",
+    "categoria": "HOGAR",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2028051812104",
+    "barcode": "6942460474165",
+    "descripcion": "GANCHOS PARA ROPA ANTIDESLIZANTES 10 PIEZAS BLANCAS",
+    "categoria": "HOGAR",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2028051814108",
+    "barcode": "6942460474189",
+    "descripcion": "GANCHOS PARA ROPA ANTIDESLIZANTES 10 PIEZAS ROSAS",
+    "categoria": "HOGAR",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2027867410108",
+    "barcode": "6942460452170",
+    "descripcion": "TAZA MINIMALISTA DE CERAMICA CON LETRAS DEL ALFABETO 340ML ROSA",
+    "categoria": "HOGAR",
+    "precioActual": 59.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2027867411105",
+    "barcode": "6942460452187",
+    "descripcion": "TAZA MINIMALISTA DE CERAMICA CON LETRAS DEL ALFABETO 340ML AZUL",
+    "categoria": "HOGAR",
+    "precioActual": 59.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2027867412102",
+    "barcode": "6942460452194",
+    "descripcion": "TAZA MINIMALISTA DE CERAMICA CON LETRAS DEL ALFABETO 340ML VERDE",
+    "categoria": "HOGAR",
+    "precioActual": 59.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2027867413109",
+    "barcode": "6942460452255",
+    "descripcion": "TAZA MINIMALISTA DE CERAMICA CON LETRAS DEL ALFABETO 340ML NEGRA",
+    "categoria": "HOGAR",
+    "precioActual": 59.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2027867414106",
+    "barcode": "6942460452262",
+    "descripcion": "TAZA MINIMALISTA DE CERAMICA CON LETRAS DEL ALFABETO 340ML BLANCA",
+    "categoria": "HOGAR",
+    "precioActual": 59.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2027984310107",
+    "barcode": "6942460470211",
+    "descripcion": "GANCHOS PARA ROPA RECUBIERTAS DE PLASTICO PARA NINOS 8 PIEZAS CAFE",
+    "categoria": "HOGAR",
+    "precioActual": 69.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2027931510109",
+    "barcode": "6942460466825",
+    "descripcion": "CUBIERTOS SERIE CLASSIC 3 PIEZAS BEIGE",
+    "categoria": "HOGAR",
+    "precioActual": 69.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2024766510106",
+    "barcode": "6937492440738",
+    "descripcion": "PELUCHE 10IN. PEREZOSO SERIE MINISO",
+    "categoria": "JUGUETES",
+    "precioActual": 229.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2024766610103",
+    "barcode": "6937492440752",
+    "descripcion": "PELUCHE 10IN. PANDA SERIE MINI FAMILY",
+    "categoria": "JUGUETES",
+    "precioActual": 229.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2026833310107",
+    "barcode": "6941377487381",
+    "descripcion": "PELUCHE HELLO KITTY DISFRAZADO DE UNICORNIO 10 PULGADAS SERIE SANRIO",
+    "categoria": "JUGUETES",
+    "precioActual": 379.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2024766613104",
+    "barcode": "6937492440783",
+    "descripcion": "PELUCHE 10IN. CONEJITO SERIE MAKE A FRIEND",
+    "categoria": "JUGUETES",
+    "precioActual": 229.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043711100",
+    "barcode": "6937492465984",
+    "descripcion": "OTROS ACCESORIOS DE MODA SET DE SILICON CON FLORES MORADO",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043712107",
+    "barcode": "6937492465991",
+    "descripcion": "OTROS ACCESORIOS DE MODA SET DE SILICON CON FLORES ROSA",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043713104",
+    "barcode": "6937492466400",
+    "descripcion": "OTROS ACCESORIOS DE MODA SET DE SILICON CON FLORES CAFE",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043714101",
+    "barcode": "6937492466417",
+    "descripcion": "OTROS ACCESORIOS DE MODA SET DE SILICON CON FLORES AZUL",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043715108",
+    "barcode": "6937492466424",
+    "descripcion": "OTROS ACCESORIOS DE MODA SET DE SILICON CON FLORES GRIS",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043810100",
+    "barcode": "6937492466431",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS F O",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043811107",
+    "barcode": "6937492466448",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS U V",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043812104",
+    "barcode": "6937492466455",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS D H",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043813101",
+    "barcode": "6937492466462",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS E I",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043814108",
+    "barcode": "6937492466479",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS G P",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043815105",
+    "barcode": "6937492466486",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS Z K",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043816102",
+    "barcode": "6937492466493",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS Y Q",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043817109",
+    "barcode": "6937492466509",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS L X",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043818106",
+    "barcode": "6937492466516",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS C J",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043819103",
+    "barcode": "6937492466523",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS A M",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043820109",
+    "barcode": "6937492466530",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS B W",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043821106",
+    "barcode": "6937492466547",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS S T",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025043822103",
+    "barcode": "6937492466554",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARMS CON LETRAS R N",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025131310109",
+    "barcode": "6937492475808",
+    "descripcion": "OTROS ACCESORIOS DE MODA NUMEROS METALICOS 4 Y 6",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025131311106",
+    "barcode": "6937492475815",
+    "descripcion": "OTROS ACCESORIOS DE MODA NUMEROS METALICOS 2 Y 8",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025131312103",
+    "barcode": "6937492475822",
+    "descripcion": "OTROS ACCESORIOS DE MODA NUMEROS METALICOS 3 Y 7",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025131313100",
+    "barcode": "6937492475839",
+    "descripcion": "OTROS ACCESORIOS DE MODA NUMEROS METALICOS O Y 5",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025131314107",
+    "barcode": "6937492475846",
+    "descripcion": "OTROS ACCESORIOS DE MODA NUMEROS METALICOS 1 Y 9",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025131510103",
+    "barcode": "6937492475778",
+    "descripcion": "OTROS ACCESORIOS DE MODA SERIE SILVERY BLACK OSITO Y GAFAS PARA COLGAR NEGRO",
+    "categoria": "MODA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025136410101",
+    "barcode": "6937492476843",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARM PARA MODERO COLECCION LILO STITCH AZUL",
+    "categoria": "MODA",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025138010101",
+    "barcode": "6937492477352",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARM 3D DE STITCH VAMPIRO SERIE DISNEY",
+    "categoria": "MODA",
+    "precioActual": 69.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025138011108",
+    "barcode": "6937492477369",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARM 3D DE STITCH ESQUELETO SERIE DISNEY",
+    "categoria": "MODA",
+    "precioActual": 69.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025138012105",
+    "barcode": "6937492477376",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARM 3D DE STITCH MOMIA SERIE DISNEY",
+    "categoria": "MODA",
+    "precioActual": 69.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025138211102",
+    "barcode": "6937492477406",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARM DE MARIE LABIAL DISNEY CLASSICS",
+    "categoria": "MODA",
+    "precioActual": 69.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025142313106",
+    "barcode": "6937492478083",
+    "descripcion": "OTROS ACCESORIOS DE MODA CHARM METAL DE ANSIEDAD COLECCION DISNEY INSIDE OUT 2 PIEZAS ROJO",
+    "categoria": "MODA",
+    "precioActual": 69.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2026493810108",
+    "barcode": "6975222027255",
+    "descripcion": "MASCARILLA HIDRATANTE DE HIDROGEL PARA LABIOS AROMA A FRESA",
+    "categoria": "SALUD Y BELLEZA",
+    "precioActual": 25.0,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2026493811105",
+    "barcode": "6975222027248",
+    "descripcion": "MASCARILLA HIDRATANTE DE HIDROGEL PARA LABIOS AROMA A NARANJA",
+    "categoria": "SALUD Y BELLEZA",
+    "precioActual": 25.0,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2026493812102",
+    "barcode": "6975222027262",
+    "descripcion": "MASCARILLA HIDRATANTE DE HIDROGEL PARA LABIOS CON AROMA A TE HELADO",
+    "categoria": "SALUD Y BELLEZA",
+    "precioActual": 25.0,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025632910105",
+    "barcode": "6931583604900",
+    "descripcion": "MASCARILLA FACIAL HIDRATANTE DE ARROZ",
+    "categoria": "SALUD Y BELLEZA",
+    "precioActual": 25.0,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2022087510102",
+    "barcode": "6936558356969",
+    "descripcion": "CREMA DE MANOS HIDRATANTE MY MELODY",
+    "categoria": "SALUD Y BELLEZA",
+    "precioActual": 69.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2022088410104",
+    "barcode": "6936558357058",
+    "descripcion": "CREMA DE MANOS HIDRATANTE CINNAMOROLL",
+    "categoria": "SALUD Y BELLEZA",
+    "precioActual": 69.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025797410106",
+    "barcode": "6971696610801",
+    "descripcion": "PARCHE PARA IMPERFECCIONES FACIALES CON ESTUCHE FORMA DE FLOR",
+    "categoria": "SALUD Y BELLEZA",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2025797411103",
+    "barcode": "6971696610795",
+    "descripcion": "PARCHE PARA IMPERFECCIONES FACIALES CON ESTUCHE FORMA DE GATITO",
+    "categoria": "SALUD Y BELLEZA",
+    "precioActual": 79.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2019923913104",
+    "barcode": "6931604303454",
+    "descripcion": "SOPORTE GIRATORIO PLEGABLE DE METAL PARA TELEFONO PLATEADO",
+    "categoria": "TECNOLOGIA",
+    "precioActual": 99.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
+  },
+  {
+    "sku": "2020768213106",
+    "barcode": "6931604380189",
+    "descripcion": "ARTICULO DECORATIVO PERSONAJES SANRIO SUMMER BEACH KUROMI",
+    "categoria": "TECNOLOGIA",
+    "precioActual": 149.9,
+    "fase": "FASE 2",
+    "faseSale": "",
+    "precioNormal": null
   }
 ]
