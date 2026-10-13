@@ -1,0 +1,17 @@
+{
+  "short_name": "Consultor de Fases",
+  "name": "Consultor de Fases - JF ",
+  "icons": [
+    {
+      "src": "consultorjf.png",
+      "type": "image/png",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#ffffff",
+  "theme_color": "#1f2937",
+  "display": "standalone",
+  "orientation": "portrait"
+}
